@@ -2,5 +2,21 @@
   "appTitle": "topics",
   "@appTitle": {
     "description": "The title of the application"
-  }
+  },
+  "genericError": "Something went wrong",
+  "requestHasCancelledErrorMessage": "Reqeust has been cacneled",
+  "noContent": "No content",
+  "unAuthorizedError": "Unauthorized request",
+  "noNetwork": "No internet connection avilable",
+  "retry": "Retry",
+  "settings": "Settings",
+  "systemTheme": "System Theme",
+  "lightTheme": "Light Theme",
+  "darkTheme": "Dark Theme",
+  "english": "English",
+  "arabic": "العربية",
+  "name": "Name",
+  "postsCount": "Posts Count",
+  "auhorPosts": "Author's Posts",
+  "requestTimeoutErrorMessage": "Request time out"
 }

@@ -1,0 +1,1 @@
+class UnsuccessfulRequest implements Exception{}

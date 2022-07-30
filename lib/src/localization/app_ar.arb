@@ -1,0 +1,19 @@
+{
+  "appTitle": "topics",
+  "genericError": "حدث خطأ غير متوقع",
+  "requestHasCancelledErrorMessage": "تم إلغاء الطلب",
+  "noContent": "لا يوجد محتوي",
+  "unAuthorizedError": "طلب غير مسموح به",
+  "noNetwork": "لا يوجد اتصال بالانترنت",
+  "retry": "إعادة المحاولة",
+  "settings": "الإعدادات",
+  "systemTheme": "مظهر النظام",
+  "lightTheme": "الوضع النهاري",
+  "darkTheme": "الوضع الليلي",
+  "english": "English",
+  "arabic": "العربية",
+  "name": "الأسم",
+  "postsCount": "عدد المقالات",
+  "auhorPosts": "مقالات الكاتبين",
+  "requestTimeoutErrorMessage": "استغرق الطلب وقت كبير"
+}
